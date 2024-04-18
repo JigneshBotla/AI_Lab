@@ -1,4 +1,4 @@
-from depth_limit_UNINFORMED import depth_limited_search 
+from Algorithms.depth_limit_UNINFORMED import depth_limited_search 
 import numpy as np
 
 NODES_EXPANDED = 0
